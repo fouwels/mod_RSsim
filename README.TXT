@@ -1,5 +1,7 @@
 Clone/archive of the ModR_Sim source from the sourceforce repository:
 
+Requires the MSVC MFC components
+
 # Original
 
 project folders:
